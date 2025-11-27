@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "356580977014",
+    "project_id": "planetas-astros-firebd",
+    "storage_bucket": "planetas-astros-firebd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356580977014:android:435e40a0d15f0382aaf257",
+        "android_client_info": {
+          "package_name": "com.example.planetas_astros"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1KkV0BcLR4op1KfhvUcqrOKRDEjum29M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
